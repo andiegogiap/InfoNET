@@ -1,5 +1,5 @@
 {
-  "name": "Copy of AI-Intel Infonet: Agent Conversations",
+  "name": "AIIAC-AI-Intel Infonet: Agent Conversations",
   "description": "An application for orchestrating and observing conversations between AI agents from the AI-Intel Infonet family. Select two agents, provide a topic, and watch them converse in real-time.",
   "requestFramePermissions": [],
   "prompt": ""
